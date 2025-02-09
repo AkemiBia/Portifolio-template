@@ -13,9 +13,9 @@ export default function Contact() {
   const sendEmail = async (e: React.FormEvent) => {
     e.preventDefault();
 
-    const serviceID = "service_bqgwi8e"; // Substitua pelo seu Service ID
-    const templateID = "template_l87d08n"; // Substitua pelo seu Template ID
-    const publicKey = "oE5E2umg3jqKCkRB6"; // Substitua pelo seu Public Key
+    const serviceID = ""; // Substitua pelo seu Service ID
+    const templateID = ""; // Substitua pelo seu Template ID
+    const publicKey = ""; // Substitua pelo seu Public Key
 
     const templateParams = {
       from_email: email,
