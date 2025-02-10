@@ -9,7 +9,7 @@ Construído com 💜 utilizando:
 - 🎨 [Three.js](https://threejs.org/) para elementos 3D
 - ✨ [Framer Motion](https://www.framer.com/motion/) para animações suaves
 
-Acesse a versão online: [Bia.site]([https://pinuya.site](https://portifolio-eta-nine-58.vercel.app/)
+Acesse a versão online: [Bia.site](https://portifolio-eta-nine-58.vercel.app/)
 
 ---
 
