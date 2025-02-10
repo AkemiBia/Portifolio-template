@@ -1,32 +1,55 @@
-<p align="center">
-  <img src="/public/favicon.ico" width="50" alt="Logo" />
-</p>
-<h1 align="center">Personal portfolio</h1>
+# Portfolio
 
-[![Site preview](/public/assets/portfolioImage.png)](https://pinuya.site)
-My design portfolio to showcase a few projects. Built with [Remix](https://remix.run/), [Three.js](https://threejs.org/), and [Framer Motion](https://www.framer.com/motion/). View the [live site](https://pinuya.site)
+Bem-vindo ao meu portfólio! Um espaço onde compartilho meus projetos e exploro o mundo do design e desenvolvimento interativo.
 
-## Install & run
-Make sure you have nodejs `>=22.0.0` or higher and bun `1.1.42` or higher installed. Install dependencies with:
+[![Visualizar o site](https://i.imgur.com/KlF09Kn.png)](https://portifolio-eta-nine-58.vercel.app/)
+
+Construído com 💜 utilizando:
+- 🚀 [Remix](https://remix.run/) para um backend eficiente
+- 🎨 [Three.js](https://threejs.org/) para elementos 3D
+- ✨ [Framer Motion](https://www.framer.com/motion/) para animações suaves
+
+Acesse a versão online: [Bia.site]([https://pinuya.site](https://portifolio-eta-nine-58.vercel.app/)
+
+---
+
+## Como rodar localmente
+
+### **Pré-requisitos**
+Certifique-se de ter instalado:
+- Node.js `>=22.0.0`
+- Bun `>=1.1.42`
+
+### **Instalação**
+Clone o repositório e instale as dependências:
 
 ```bash
 bun install
 ```
 
-Once it's done start up a local server with:
+### **Rodando o projeto**
+Inicie o ambiente de desenvolvimento com:
 
 ```bash
 bun dev
 ```
-## Permissions
 
-I'm cool with anyone using the code or parts of the code for their own site, it is open source so people can learn from it and adapt it. However, I would encourage you to modify the theme and components it to make it your own. If you are using the site's design largely unmodified, I'd appreciate being credited as the designer of the website.
+Agora é só acessar [`localhost:3000`](http://localhost:3000) 
 
-I do not give permission to present any of my projects as your own (this is being actively used as my portfolio site and these are my real projects I've worked on).
+---
 
+## 🛠️ Personalização
+Quer modificar ou contribuir? Fique à vontade!
+1. Clone o repositório
+2. Crie uma nova branch (`git checkout -b minha-branch`)
+3. Faça suas mudanças e teste
+4. Envie um PR 🚀
 
-### Show your support
+---
 
-Give a ⭐ if you like this website!
+## 📬 Contato
+Curtiu o projeto? Quer bater um papo? Me encontre em:
 
-Desenvolvido com ❤️ por **Tifany Alves**.
+📧 [beatrizakemi040@gmail.com](mailto:beatrizakemi040@gmail.com)  
+
+---
